@@ -49,5 +49,32 @@ The original value is overwritten.
 
 1.15 The Java compiler translates Java source code into byte code, which is an intermediate language. The Java Virtual Machine executes the byte code instructions.
 
+1.16 The Java Virtual Machine (JVM) is a program that reads Java byte code instructions and executes them as they are read. In other words, it interprets byte code instructions. You can think of the JVM as a program that simulates a computer whose machine language is Java byte code.
+
+1.17 The program's purpose, input, process, and output.
+
+1.18 Before you create a program on the computer, it is often a good idea to imagine what the computer screen will look like while the program is running. If it helps,
+draw pictures of the screen, with sample input and output, at various points in the program.
 
 
+1.19 A cross between human language and a programming language. Pseudocode is especially helpful when designing an algorithm. Although the computer can't understand pseudocode, programmers often find it helpful to write an algorithm in a language that's "almost" a programming language, but still very similar to natural language.
+
+1.20 A compiler translates source code into an executable form.
+
+1.21 A runtime error is an error that occurs while the program is running. These are usually logical errors, such as mathematical mistakes.
+
+1.22 Syntax errors are found by the compiler.
+
+1.23 What is the purpose of testing a program with sample data or input?
+
+1.23 You can provide sample data and predict what the output should be. If the program does not produce the correct output, a logical error is present in the program.
+
+1.24 Data and the code that operates on the data.
+
+1.25 The data contained in an object.
+
+1.26 The procedures, or behaviors, that an object performs.
+
+1.27 Encapsulation refers to the combining of data and code into a single object.
+
+1.28 Data hiding refers to an object's ability to hide its data from code that is outside the object. Only the object's methods may then directly access and make changes to the object's data. An object typically hides its data, but allows outside code to access the methods that operate on the data.

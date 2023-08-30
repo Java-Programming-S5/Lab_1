@@ -14,10 +14,10 @@ public class Main {
         tax = charge * 0.0675;
         tip = (charge + tax) * 0.2;
         System.out.println("====== Restaurant Bill ======");
-        System.out.println("Charge : "+charge);
-        System.out.println("Charge : "+charge);
-        System.out.println("Charge : "+charge);
+        System.out.println("Charge : "+ charge);
+        System.out.println("Tax : "+ tax);
+        System.out.println("Tip : "+ tip);
 
-        
+        System.out.println("====== Thanks for comming ======");
     }
 }
